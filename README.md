@@ -6,9 +6,9 @@ This project is an **internal security audit** conducted for **Botium Toys**, a 
 
 ##  Scenario  
 Botium Toys is expanding its online presence, increasing IT security risks. The **IT Manager** has initiated an **internal audit** to:  
--  **Maintain compliance with cybersecurity regulations.  
--  **Identify risks in IT infrastructure.  
--  **Improve security posture and business continuity.  
+-  Maintain compliance with cybersecurity regulations.  
+-  Identify risks in IT infrastructure.  
+-  Improve security posture and business continuity.  
 
 ##  Audit Scope & Goals
 The audit focuses on:  
